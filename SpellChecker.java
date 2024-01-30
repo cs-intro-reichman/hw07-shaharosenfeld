@@ -59,7 +59,6 @@ public class SpellChecker {
 		if (checker <= threshold) {
 			return correctWord;
 		}
-		
 		return word;
 	}
 
